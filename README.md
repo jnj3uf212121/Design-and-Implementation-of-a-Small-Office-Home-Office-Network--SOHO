@@ -126,6 +126,12 @@ The network uses the **192.168.1.0/24** address block, divided into subnets for 
 #### 1. **Connectivity Tests**
    - **Intra-VLAN Communication**:
      Devices within the same VLAN successfully communicated using ICMP (ping).
+     <p align="center">
+  <img src="image1_url" alt="VLAN10-PING-VLAN20" width="300"/>
+  <img src="image2_url" alt="VLAN20-PING-VLAN30" width="300"/>
+   <img src="image2_url" alt="VLAN30-PING-VLAN10" width="300"/>
+</p>
+
    - **Inter-VLAN Communication**:
      Devices from different VLANs successfully communicated via the router.
 
