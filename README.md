@@ -127,7 +127,7 @@ The network uses the **192.168.1.0/24** address block, divided into subnets for 
    - **Intra-VLAN Communication**:
      Devices within the same VLAN successfully communicated using ICMP (ping).
      <p align="center">
-  <img src="image1_url" alt="VLAN10-PING-VLAN20" width="300"/>
+  <img src="https://github.com/user-attachments/assets/7f558dec-48ae-4185-a1b4-52df53f1328e" alt="VLAN10-PING-VLAN20" width="300"/>
   <img src="image2_url" alt="VLAN20-PING-VLAN30" width="300"/>
    <img src="image2_url" alt="VLAN30-PING-VLAN10" width="300"/>
 </p>
