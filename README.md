@@ -113,6 +113,7 @@ The network uses the **192.168.1.0/24** address block, divided into subnets for 
    ```
 
 4. **Trunk Port Configuration**:
+![image](https://github.com/user-attachments/assets/ca129c73-36d5-464a-9950-084f1386ce6f)
    Configured the trunk port to connect the switch to the router:
    ```plaintext
    interface GigabitEthernet0/1
