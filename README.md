@@ -61,19 +61,23 @@ The network uses the **192.168.1.0/24** address block, divided into subnets for 
    ```
 
 2. **DHCP Configuration**:
+![DHCP CONFIG](image_url)
    Configured DHCP pools for each VLAN:
    ```plaintext
-   ip dhcp pool VLAN10
+   ip dhcp pool Admin-Pool
    network 192.168.1.0 255.255.255.192
    default-router 192.168.1.1
+   domain-name Admin.com
 
-   ip dhcp pool VLAN20
+   ip dhcp pool Finance-Pool
    network 192.168.1.64 255.255.255.192
    default-router 192.168.1.65
+   domain-name Finance.com
 
-   ip dhcp pool VLAN30
+   ip dhcp pool CS-Pool
    network 192.168.1.128 255.255.255.192
    default-router 192.168.1.129
+   domain-name CS.com
    ```
 
 ---
