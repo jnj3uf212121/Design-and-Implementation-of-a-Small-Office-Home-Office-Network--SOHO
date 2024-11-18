@@ -137,6 +137,11 @@ The network uses the **192.168.1.0/24** address block, divided into subnets for 
 
 #### 2. **Dynamic IP Addressing**
    - All devices received correct IP addresses dynamically via DHCP.
+ <p align="center">
+  <img src="https://github.com/user-attachments/assets/7f558dec-48ae-4185-a1b4-52df53f1328e" alt="DHCP-CONFIG-ADMIN" width="300"/>
+  <img src="https://github.com/jnj3uf212121/Design-and-Implementation-of-a-Small-Office-Home-Office-Network--SOHO/blob/main/VLAN20-PING-VLAN30.png?raw=true" alt="DHCP-CONFIG-FINANCE" width="300"/>
+   <img src="https://github.com/jnj3uf212121/Design-and-Implementation-of-a-Small-Office-Home-Office-Network--SOHO/blob/main/VLAN30-PING-VLAN10.png?raw=true" alt="DHCP-CONFIG-RECEPTION" width="300"/>
+</p>
 
 #### 3. **Wireless Connectivity**
    - Laptops, smartphones, and tablets successfully connected to their respective VLAN wireless networks.
