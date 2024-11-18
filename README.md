@@ -1,4 +1,5 @@
 # **Cisco Packet Tracer Lab Report: SOHO Network Design**
+![image](https://github.com/user-attachments/assets/26e1ba7f-a3c0-423a-974f-10ccf0119c21)
 
 ## **Project Overview**
 This project demonstrates the design, implementation, and testing of a small office/home office (SOHO) network using Cisco Packet Tracer. The network is designed to meet the following specifications for XYZ company:
