@@ -148,14 +148,6 @@ The network uses the **192.168.1.0/24** address block, divided into subnets for 
 
 ---
 
-## **Screenshots**
-Include screenshots of:
-1. Network topology in Packet Tracer.
-2. CLI outputs for VLAN, inter-VLAN routing, and DHCP configuration.
-3. Ping results showing successful communication between devices.
-
----
-
 ## **Reflection**
 This project provided hands-on experience with:
 - VLAN segmentation and configuration.
