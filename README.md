@@ -61,7 +61,7 @@ The network uses the **192.168.1.0/24** address block, divided into subnets for 
    ```
 
 2. **DHCP Configuration**:
-![DHCP CONFIG](image_url)
+![DHCP CONFIG](https://github.com/jnj3uf212121/Design-and-Implementation-of-a-Small-Office-Home-Office-Network--SOHO/blob/main/ROUTER-DHCP.png?raw=true)
    Configured DHCP pools for each VLAN:
    ```plaintext
    ip dhcp pool Admin-Pool
