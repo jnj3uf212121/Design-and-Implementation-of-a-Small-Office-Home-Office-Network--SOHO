@@ -41,7 +41,7 @@ The network uses the **192.168.1.0/24** address block, divided into subnets for 
 
 ### **Router Configuration**
 1. **Inter-VLAN Routing**:
-https://github.com/jnj3uf212121/Design-and-Implementation-of-a-Small-Office-Home-Office-Network--SOHO/blob/main/DOTQ-ENCAP.png?raw=true
+![VLAN ENCAPSULATION](https://github.com/jnj3uf212121/Design-and-Implementation-of-a-Small-Office-Home-Office-Network--SOHO/blob/main/DOTQ-ENCAP.png?raw=true)
    Configured sub-interfaces for each VLAN:
    ```plaintext
    interface GigabitEthernet0/0.10
