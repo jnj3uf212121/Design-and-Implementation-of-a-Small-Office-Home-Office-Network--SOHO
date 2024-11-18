@@ -17,6 +17,7 @@ This project demonstrates the design, implementation, and testing of a small off
 ---
 
 ## **Network Design**
+![image](https://github.com/user-attachments/assets/640c24b3-c647-4cd3-8366-4ee24c3bdafd)
 The network consists of the following components:
 
 ### **Hardware**
