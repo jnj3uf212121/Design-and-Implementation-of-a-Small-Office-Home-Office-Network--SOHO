@@ -83,7 +83,7 @@ The network uses the **192.168.1.0/24** address block, divided into subnets for 
 ---
 
 ### **Switch Configuration**
-![VLAN ASSIGNMENT](![image](https://github.com/user-attachments/assets/a4cd9855-25ac-4a93-831b-1aaa2b8a700f))
+![VLAN ASSIGNMENT](https://github.com/user-attachments/assets/a4cd9855-25ac-4a93-831b-1aaa2b8a700f)
 1. **VLAN Creation**:
    VLANs were created and named:
    ```plaintext
