@@ -83,8 +83,8 @@ The network uses the **192.168.1.0/24** address block, divided into subnets for 
 ---
 
 ### **Switch Configuration**
-![VLAN ASSIGNMENT](https://github.com/user-attachments/assets/a4cd9855-25ac-4a93-831b-1aaa2b8a700f)
 1. **VLAN Creation**:
+![VLAN ASSIGNMENT](https://github.com/user-attachments/assets/a4cd9855-25ac-4a93-831b-1aaa2b8a700f)
    VLANs were created and named:
    ```plaintext
    vlan 10
@@ -95,7 +95,8 @@ The network uses the **192.168.1.0/24** address block, divided into subnets for 
    name CS_Reception
    ```
 
-2. **Assigning VLANs to Ports**:
+3. **Assigning VLANs to Ports**:
+![image](https://github.com/user-attachments/assets/49d7a365-e3d6-443c-b211-214b813be5de)
    Ports were assigned to their respective VLANs:
    ```plaintext
    interface range FastEthernet0/1-4
@@ -111,7 +112,7 @@ The network uses the **192.168.1.0/24** address block, divided into subnets for 
    switchport access vlan 30
    ```
 
-3. **Trunk Port Configuration**:
+4. **Trunk Port Configuration**:
    Configured the trunk port to connect the switch to the router:
    ```plaintext
    interface GigabitEthernet0/1
