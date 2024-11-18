@@ -140,7 +140,7 @@ The network uses the **192.168.1.0/24** address block, divided into subnets for 
  <p align="center">
   <img src="https://github.com/user-attachments/assets/6c670409-6e19-4498-8736-7cebed579475" alt="DHCP-CONFIG-ADMIN" width="300"/>
   <img src="https://github.com/user-attachments/assets/01a042fa-66a3-4779-8c0b-1d3fbc5670e9" alt="DHCP-CONFIG-FINANCE" width="300"/>
-   <img src="https://github.com/jnj3uf212121/Design-and-Implementation-of-a-Small-Office-Home-Office-Network--SOHO/blob/main/VLAN30-PING-VLAN10.png?raw=true" alt="DHCP-CONFIG-RECEPTION" width="300"/>
+   <img src="https://github.com/user-attachments/assets/8a8ba2f7-bd65-4025-9c31-1e32ec4e417c" alt="DHCP-CONFIG-RECEPTION" width="300"/>
 </p>
 
 #### 3. **Wireless Connectivity**
